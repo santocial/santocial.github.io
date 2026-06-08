@@ -24,13 +24,13 @@ repository               : "https://github.com/santocial/santocial.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Santiago (Santi)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi! I'm Santiago I'm from Colombia and am an MD and PhD student based in France, I love everything that relates to neuroscience, computer science and psychology, happy to connect and work together!"
+  location         : "Paris, France"
+  employer         : "Université Lyon 1 / CEA-Neurospin Université Paris-Saclay"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "santiago.cifuentes-almanza@inserm.fr/sj.cifuentes11@gmail.com" 
 
   # Academic websites
   academia         : # URL
