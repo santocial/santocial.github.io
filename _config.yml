@@ -23,7 +23,7 @@ repository               : "https://github.com/santocial/santocial.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Santiago (Santi)"
   pronouns         : # example: "she/her"  
   bio              : "Hi! I'm Santiago I'm from Colombia and am an MD and PhD student based in France, I love everything that relates to neuroscience, computer science and psychology, happy to connect and work together!"
